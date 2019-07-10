@@ -1,6 +1,18 @@
-# joinnus
+#joinnus
+Joinnus in Flutter
 
-A new Flutter project.
+A new Flutter application to retrive data from Joinnus API.
+Visit Joinnus.com
+
+#Change project
+Change the file according "global.dart" to project
+
+COUNTRY = "PE";
+BRANDCODE = "projectCode";
+PROJECT = "projectName";
+
+#flutter run 
+Run your Flutter app on an attached device.
 
 ## Getting Started
 
