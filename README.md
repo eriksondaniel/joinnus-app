@@ -4,7 +4,7 @@ Joinnus in Flutter
 A new Flutter application to retrive data from Joinnus API.
 Visit https://www.joinnus.com/ 
 
-## Change project
+## change project
 Change the file according "global.dart" to project
 
 COUNTRY = "PE";
